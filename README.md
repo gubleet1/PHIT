@@ -13,3 +13,17 @@ Simulation tool to **visualize** the two-body problem of the **Earth-Moon system
 - Project report (German): [PHIT_Project-Report.pdf](./docs/report/PHIT_Project-Report.pdf)
 - IntelliJ IDEA project root: [intellij/PHIT/](./intellij/PHIT/)
 - Main srouce file: [TwoBodyProblem.java](./intellij/PHIT/src/ch/gubleet/phit/TwoBodyProblem.java)
+
+## Screenshots
+
+### Developed Simulation Tool with GUI
+
+![Screenshot of the developed simulation tool](./res/readme/screenshot.png)
+
+### Simulations with Varying Exponent of the Force Law (&alpha;)
+
+![Renderings with varying exponent of the force law (alpha)](./res/readme/renderings_varying-alpha.png)
+
+### Simulations with Varying Numerical Methods and Step Sizes
+
+![Renderings with varying numerical methods and step sizes](./res/readme/renderings_varying-method-and-step-size.png)
