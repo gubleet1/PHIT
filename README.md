@@ -13,6 +13,7 @@ Simulation tool to **visualize** the two-body problem of the **Earth-Moon system
 - Project report (German): [PHIT_Project-Report.pdf](./docs/report/PHIT_Project-Report.pdf)
 - IntelliJ IDEA project root: [intellij/PHIT/](./intellij/PHIT/)
 - Main srouce file: [TwoBodyProblem.java](./intellij/PHIT/src/ch/gubleet/phit/TwoBodyProblem.java)
+- Renderings: [res/renderings/](./res/renderings/)
 
 ## Screenshots
 
